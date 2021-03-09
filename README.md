@@ -17,8 +17,8 @@ The refactored code offered a different approach. Here, four arrays were created
 
 ## Summary
 
-###Pros and Cons of Refactoring Code
+### Pros and Cons of Refactoring Code
 - text
 
-###Pros and Cons of the Initial vs. Refactored VBA script
+### Pros and Cons of the Initial vs. Refactored VBA script
 - text
